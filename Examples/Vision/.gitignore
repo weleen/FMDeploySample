@@ -1,0 +1,8 @@
+**/*.gif
+**/*.mp4
+**/*.png
+**/*.jpg
+**/*.jpeg
+SVD/ucf_generated_svd_16steps_320x240/
+__pycache__
+**/*.pyc
